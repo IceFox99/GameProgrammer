@@ -2,3 +2,6 @@
 	path = game-programmer
 	url = https://github.com/miloyip/game-programmer.git
 
+[submodule "LearningGit"]
+	path = LearningGit
+	url = https://github.com/IceFox99/LearningGit.git
