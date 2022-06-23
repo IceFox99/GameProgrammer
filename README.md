@@ -9,7 +9,7 @@
 - [Modern Operating System](01.%20Computer%20Science/Modern%20Operating%20Systems%204th%20Edition.pdf)
 #### Algorithm
 - [Algorithms](01.%20Computer%20Science/Algorithms%20by%20Robert%20Sedgewick,%20Kevin%20Wayne%20(z-lib.org).pdf)
-- [Introduction to Algorithms](01.%20Computer%20Science/Introduction_to_algorithms-3rd%20Edition.pdf)
+- [Introduction to Algorithms](01.%20Computer%20Science/Thomas%20H.%20Cormen,%20Charles%20E.%20Leiserson,%20Ronald%20L.%20Rivest,%20Clifford%20Stein%20-%20Introduction%20to%20Algorithms-The%20MIT%20Press%20(2022).pdf)
 #### Mathematics for CS
 - [Concrete Mathematics](01.%20Computer%20Science/Concrete%20mathematics%20a%20foundation%20for%20computer%20science%20by%20Ronald%20L.%20Graham,%20Donald%20E.%20Knuth,%20Oren%20Patashnik%20(z-lib.org).pdf)
 - [Computational Science and Engineering](01.%20Computer%20Science/Gilbert%20Strang%20-%20Computational%20Science%20and%20Engineering%20%20%20(2007,%20Wellesley-Cambridge%20Press)%20-%20libgen.lc.pdf)
