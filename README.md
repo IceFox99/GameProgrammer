@@ -1,5 +1,5 @@
 # GameProgrammer
-*This repository contains PDFs of recommended books in a GitHub repo [A Study Path for Game Programmer](https://github.com/miloyip/game-programmer).*
+*This repository collects all PDFs of recommended books mentioned in a GitHub repo [A Study Path for Game Programmer](https://github.com/miloyip/game-programmer). And you can use this [Trello board template](https://trello.com/b/vO0eergA/game-programmer) of this repo to customize your learning path.*
 
 ## 1. Computer Science
 #### CS Foundation
@@ -112,12 +112,3 @@
 - [Unix Network Programming Vol 1](11.%20Multiplayer%20Game%20Programming/W.%20Richard%20Stevens,%20Bill%20Fenner,%20Andrew%20M.%20Rudoff%20-%20UNIX%20Network%20Programming,%20Volume%201_%20The%20Sockets%20Networking%20API,%203rd%20Edition%201.pdf)
 - [Unix Network Programming Vol 2](11.%20Multiplayer%20Game%20Programming/-%20UNIX%20Network%20Programming%20Volume.2(,%20Prentice.Hall)%20-%20libgen.lc.pdf)
 - [Understanding Linux Network Internals](11.%20Multiplayer%20Game%20Programming/Christian%20Benvenuti%20-%20Understanding%20Linux%20network%20internals%20(2005,%20O'Reilly%20Media)%20-%20libgen.lc.pdf)
-
-
-
-![GameProgrammer](game-programmer.png)
-
-
-
-***Hope you guys well, and hope I could create some fantastic games and bring people happiness.***
-
