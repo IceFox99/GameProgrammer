@@ -67,7 +67,7 @@
 #### Beginning CG Programming
 - [Introduction to 3D Game Programming with DirectX 12](07.%20Computer%20Graphics%20(CG)/[Computer%20Science]%20Frank%20Luna%20-%20Introduction%20to%203D%20Game%20Programming%20with%20DirectX%2012%20(2016,%20Mercury%20Learning%20&%20Information)%20-%20libgen.lc.pdf)
 #### Beginning CG theory
-- [Fundamentals of Computer Graphics](07.%20Computer%20Graphics%20(CG)/Marschner,%20Steve_%20Shirley,%20Peter%20-%20Fundamentals%20of%20Computer%20Graphics,%20Fourth%20Edition%20(2016,%20A%20K%20Peters,%20Limited,%20Taylor%20&%20Francis%20Group%20[distributor)%20-%20libgen.lc.pdf)
+- [Fundamentals of Computer Graphics](07.%20Computer%20Graphics%20(CG)/Steve%20Marschner,%20Peter%20Shirley%20-%20Fundamentals%20of%20Computer%20Graphics%20(2021,%20A%20K%20Peters_CRC%20Press)%20-%20libgen.li.pdf)
 #### Advanced CG: Real-Time Rendering
 - [Real-Time Rendering](07.%20Computer%20Graphics%20(CG)/9781138627000_Real_Time_Rendering_4th_Edition_5726.pdf)
 #### Advanced CG: Offline Rendering
